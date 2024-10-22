@@ -1,0 +1,5 @@
+config: 
+  account_name: "vamosnewaccou332"
+  account_tier: "Standard"
+  replication_type: "LRS" 
+  

@@ -1,0 +1,6 @@
+tags: 
+  environment: "prod"
+  project: "test01"
+  source: "terraform"
+  owner: "pokroy"
+  cost_center: "payg"
